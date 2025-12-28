@@ -7,12 +7,12 @@ Dream reports collected from a variety of sources and aggregated in the public
 |--:|:--|
 | File | `sddb.tsv.xz` |
 | Size | 4 Mb |
-| Version | [v1-alpha.1](https://github.com/krank-data/sddb/releases/latest) |
-| MD5 | `md5:f05c3615c978a16dcf0ddb2440c56914` |
-| SHA256 | `sha256:df9e9cc5db89fc28ddb20d5d38153c56d1c77f971626646bb1a1b963e39f607e` |
+| Version | [v1-alpha.2](https://github.com/krank-sources/sddb/releases/tag/v1-alpha.2) |
+| MD5 | `md5:082496b09f8973e511e15190bc344ac1` |
+| SHA256 | `sha256:42fcb9e4f847f72cf64f20ca4f50d0028ee514d8bdfdcbe999dc9c2f02d5ac29` |
 | Source | [Sleep and Dream Database](https://sleepanddreamdatabase.org/library) |
 | References | Bulkeley, K. (2014). Digital dream analysis: A revised method. _Conscious Cogn_. doi:[10.1016/j.concog.2014.08.015](https://doi.org/10.1016/j.concog.2014.08.015) <br> Bulkeley, K. (2023). New approaches in the empirical study of dreams. _Poligrafi_. doi:[10.35469/poligrafi.2023.412](https://doi.org/10.35469/poligrafi.2023.412) |
-| Processing code | [`prepare.ipynb`](https://nbviewer.org/github/krank-data/sddb/blob/main/prepare.ipynb) |
+| Processing code | [`prepare.ipynb`](prepare.ipynb) |
 | Processing environment | [`environment.yaml`](environment.yaml) |
 
 ## Changes made
