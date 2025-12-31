@@ -1,7 +1,8 @@
 .ipynb_checkpoints
+.DS_Store
 
 # Ignore the original raw file that was downloaded prior to compression
 *.csv
 
-# Ignore the output files of prepare.ipynb
-*.tsv.xz
+# Ignore any output files
+output/
